@@ -1,0 +1,28 @@
+  /* .clock{
+      float: left;
+      padding-left: 50px;
+      color: white;
+      font-size: 35px;
+  }
+
+  .weather{
+    float: right;
+    padding-right: 50px;
+    color: white;
+    font-size: 35px;
+  } */
+
+  .info-div {
+      font-size: 30px;
+      text-align: right;
+      position: absolute;
+      bottom: 40px;
+      right: 40px;
+  }
+
+  .greeting {
+      font-size: 25px;
+      position: absolute;
+      top: 20px;
+      left:20px;
+  }

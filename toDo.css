@@ -1,0 +1,37 @@
+h1,
+h2,
+ul {
+  color: white;
+  padding-top: 15px;
+  text-align: center;
+}
+
+ul {
+  list-style: none;
+}
+
+span {
+  padding-right: 15px;
+}
+
+.btn {
+  padding: 3px;
+}
+
+.js-form {
+  text-align: center;
+  clear: both;
+  padding-top: 30px;
+}
+
+.form-control {
+    margin-top: 20px;
+    width: 30%;
+    text-align: center;
+    color: black;
+    display: inline-block;
+}
+
+.input {
+  width: 20%;
+}
